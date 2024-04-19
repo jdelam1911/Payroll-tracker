@@ -14,6 +14,8 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
+## Apology
+This assignment was so complicated for me that throughout a week i had barely gotten thru just one part of this, i had a tutor but couldnt make it to finalze my car situation, I studied and looked over countless videos and support. I respectfully take the grade it is that i will recieve for this and for the future try other methods to understand the concepts. Very VERY confusing but i wont stop, and will continue to apply myself. 
 
 
 ## License
